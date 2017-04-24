@@ -1,0 +1,6 @@
+# exclude events, pages, temp, users contents
+events/*
+pages/*
+temp/*
+users/*
+!.gitignore

@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "devDependencies": {
+    "gulp": "^3.8.8"
+  },
+  "dependencies": {
+    "dropzone": "^4.3.0",
+    "foundation-datepicker": "^1.5.1",
+    "foundation-sites": "^6.2.1",
+    "laravel-elixir": "^4.0.0",
+    "magnific-popup": "^1.1.0",
+    "motion-ui": "^1.2.2",
+    "sortablejs": "^1.4.2",
+    "trumbowyg": "^2.0.0-beta.7"
+  }
+}
